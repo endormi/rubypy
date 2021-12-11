@@ -13,3 +13,5 @@ Run:
 ```
 ruby rubypy.rb
 ```
+
+This is a similar type of project ([RubySH](https://github.com/endormi/rubysh)).
