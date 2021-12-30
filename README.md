@@ -2,6 +2,12 @@
 
 Just a small script showing how to run `Python` inside `Ruby` using the `RubyPython` package.
 
+Clone repository:
+
+```
+git clone https://github.com/endormi/rubypy.git
+```
+
 Install `RubyPython`:
 
 ```
